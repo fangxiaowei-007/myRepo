@@ -17,5 +17,6 @@ public class PersonImpl implements Person {
 
     public void buy1() {
         System.out.println("做人要低调");
+        System.out.println("分支1");
     }
 }
